@@ -1,5 +1,5 @@
 ### Data-Analytics-C5T4
  
-#### C5T3-Build and Evaluate Models
+#### Data Science Capstone Project - Evaluate Techniques for Wifi Locationing 
 
 #### Salvador Diaz
